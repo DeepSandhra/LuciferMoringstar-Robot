@@ -38,8 +38,8 @@ HELP_MESSAGE = """
 ABOUT_MESSAGE = """
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁
 𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : 𝙻𝚄𝙲𝙸𝙵𝙴𝚁
-𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳](t.me/PR0FESS0R_99)
+𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://github.com/DeepSandhra/LuciferMoringstar-Robot)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [𝙺𝙷𝚄𝚂𝙷](t.me/movi2x)
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}](https://t.me/{username})
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
@@ -94,9 +94,9 @@ USAGE_MESSAGE = """
  • [𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂 & 𝚂𝙴𝚃𝚃𝙸𝙽𝙶𝚂](https://youtu.be/zk5Rs3_Cqhw?t=6m17s)
  • [𝙲𝚄𝚂𝚃𝙾𝙼𝙸𝚉𝚂](https://youtu.be/zk5Rs3_Cqhw?t=9m50s)
 
-× [𝙷𝚘𝚠 𝚃𝚘 𝚂𝚎𝚝 𝙼𝚎𝚗𝚞 𝙱𝚞𝚝𝚝𝚘𝚗](https://youtu.be/k1QQuZke56s)
+× [𝙷𝚘𝚠 𝚃𝚘 𝚂𝚎𝚝 𝙼𝚎𝚗𝚞 𝙱𝚞𝚝𝚝𝚘𝚗](https://github.com/DeepSandhra/LuciferMoringstar-Robot)
 
-× [𝙷𝚘𝚠 𝚃𝚘 𝙲𝚛𝚎𝚊𝚝𝚎 𝚃𝚑𝚒𝚜 𝚃𝚢𝚙𝚎 𝙾𝚏 𝙱𝚘𝚝](https://youtu.be/gdz9PAGwEns)
+× [𝙷𝚘𝚠 𝚃𝚘 𝙲𝚛𝚎𝚊𝚝𝚎 𝚃𝚑𝚒𝚜 𝚃𝚢𝚙𝚎 𝙾𝚏 𝙱𝚘𝚝](https://github.com/DeepSandhra/LuciferMoringstar-Robot)
 
 × 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙳𝙴𝙿𝙻𝙾𝚈𝙴𝙳 𝙱𝚈
   - [{}](t.me/{})"""
